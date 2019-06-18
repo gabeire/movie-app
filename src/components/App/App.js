@@ -5,6 +5,7 @@ import Home from '../Home/Home';
 import Movie from '../Movie/Movie';
 import NotFound from '../elements/NotFound/NotFound';
 
+
 const App = () => {
   return (
     <BrowserRouter>
